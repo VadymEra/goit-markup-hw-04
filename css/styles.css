@@ -254,9 +254,6 @@ img {
 
 /* #region advantages section */
 
-.container.advantages-section-hidden {
-  margin-bottom: 8px;
-}
 
 .advantages-section-hidden {
   position: absolute;
@@ -291,6 +288,7 @@ img {
   width: 264px;
   height: 112px;
   background: #f4f4fd;
+  margin-bottom: 8px;
 }
 
 .advantages-title {
